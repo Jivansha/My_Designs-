@@ -1,2 +1,2 @@
-# My_Designs-
-Contains various designs made by me
+# My_Designs
+This repository contains the designs of t-shirts, certificates, etc. designed by me. 
